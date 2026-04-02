@@ -35,10 +35,10 @@ GitHub 电子书版入口。仓库首页提供总目录，`published/` 目录提
   - [4.4 实战演练：见证大模型的“原生常识”与“工具”的完美融合](./published/04-工具调用设计模式.md#ch04-4)
   - [4.5 本章小结](./published/04-工具调用设计模式.md#ch04-5)
 
-- [第五章：给 AI 一场“开卷考试”——智能体 RAG (Agentic RAG)](./published/05-智能体 RAG.md)
-  - [5.1 从基础 RAG 到智能体 RAG 的进化](./published/05-智能体 RAG.md#ch05-1)
-  - [5.2 实战演练：当文档检索遇上工具调用](./published/05-智能体 RAG.md#ch05-2)
-  - [5.3 本章小结](./published/05-智能体 RAG.md#ch05-3)
+- [第五章：给 AI 一场“开卷考试”——智能体 RAG (Agentic RAG)](./published/05-智能体RAG.md)
+  - [5.1 从基础 RAG 到智能体 RAG 的进化](./published/05-智能体RAG.md#ch05-1)
+  - [5.2 实战演练：当文档检索遇上工具调用](./published/05-智能体RAG.md#ch05-2)
+  - [5.3 本章小结](./published/05-智能体RAG.md#ch05-3)
 
 - [第六章：不作恶的数字员工——构建值得信赖的智能体 (Building Trustworthy AI Agents)](./published/06-构建值得信赖的智能体.md)
   - [6.1 系统消息框架：用魔法打败魔法](./published/06-构建值得信赖的智能体.md#ch06-1)

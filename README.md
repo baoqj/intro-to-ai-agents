@@ -14,7 +14,7 @@ GitHub 电子书版入口。仓库首页提供总目录，`published/` 目录提
 ## 全书目录
 
 - [作者序：从“只会聊天的外脑”到“能干活的数字员工”](./published/00-作者序-目录.md)
-- [第一章：初识 AI 智能体——你的第一个“数字打工人” (Intro to AI Agents)](./published/01-初识 AI 智能体.md)
+- [第一章：初识AI智能体——你的第一个“数字打工人” (Intro to AI Agents)](./published/01-初识AI智能体.md)
   - [1.1 智能体的“解剖学”：三大核心组件](./published/01-初识 AI 智能体.md#ch01-1)
   - [1.2 刷牙理论：生活中的智能体哲学](./published/01-初识 AI 智能体.md#ch01-2)
   - [1.3 从概念到代码：构建你的第一个智能体](./published/01-初识 AI 智能体.md#ch01-3)
